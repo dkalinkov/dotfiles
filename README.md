@@ -1,2 +1,2 @@
 # Dotfiles
-Dotfiles files for new configurations
+Dotfiles collection
