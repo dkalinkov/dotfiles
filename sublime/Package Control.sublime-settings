@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"Babel",
+		"BracketHighlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"jQuery",
+		"JsFormat",
+		"Markdown Preview",
+		"nginx",
+		"Package Control",
+		"Puppet",
+		"Racket",
+		"Sass",
+		"Scheme",
+		"SideBarEnhancements",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"TypeScript"
+	]
+}
