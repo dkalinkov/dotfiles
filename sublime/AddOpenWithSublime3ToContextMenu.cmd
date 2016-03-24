@@ -1,5 +1,3 @@
-rem this adds sublime to the context menu
-
 @echo off
 SET st2Path=C:\Program Files\Sublime Text 3\sublime_text.exe
 
