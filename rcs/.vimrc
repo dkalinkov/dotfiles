@@ -6,7 +6,7 @@ syntax on
 
 set t_Co=256
 
-colo desert
+colo monokai
 set mouse=a
 set ruler
 set number
@@ -66,6 +66,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 
 Plugin 'scrooloose/nerdtree'
+Plugin 'prettier/vim-prettier'
 Plugin 'flazz/vim-colorschemes'
 Plugin 'leshill/vim-json'
 Plugin 'pangloss/vim-javascript'
